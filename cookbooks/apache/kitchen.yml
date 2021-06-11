@@ -18,7 +18,7 @@ provisioner:
   #  product_version: 16
 
 verifier:
-  name: inspec
+  name: busser
 
 platforms:
 #  driver:
